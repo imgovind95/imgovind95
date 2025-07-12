@@ -49,7 +49,7 @@ JavaScript, React, Node.js, MongoDB, Git & GitHub, Firebase, Full-Stack Projects
 
 ### 📫 How to Reach Me
 - 📧 Email: [govindkumar952365@gmail.com](mailto:govindkumar952365@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/govindkumar9456)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/govind-kumar-61a212271/)
 
 ---
 
