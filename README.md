@@ -6,7 +6,7 @@
 
 <!--
 ### 🎓 About Me
-- 🎓 **B.Tech Final Year Student** at **Nitte Meenakshi Institute of Technology**, Bangalore  
+- 🎓 **B.Tech Final Year Student**|ISE '26 at **Nitte Meenakshi Institute of Technology**, Bangalore  
 - 💻 Passionate about **Full-Stack Development** and solving real-world problems using modern tech  
 - 🚀 Always eager to learn and grow in the field of software engineering
 
