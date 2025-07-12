@@ -12,7 +12,7 @@
 
 
 -->
-### 💡 About Me
+## 💡 About Me
 
 🎓 B.Tech Final Year Student at **Nitte Meenakshi Institute of Technology**, Bangalore  
 💻 Passionate about **Full-Stack Development** and solving real-world problems using modern tech  
