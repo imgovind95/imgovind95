@@ -61,7 +61,7 @@ JavaScript, React, Node.js, MongoDB, Git & GitHub, Firebase, Full-Stack Projects
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+
 
 ### 🌐 Frontend  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -71,7 +71,7 @@ JavaScript, React, Node.js, MongoDB, Git & GitHub, Firebase, Full-Stack Projects
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
----
+
 
 ### 🗄️ Backend & Database  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -80,7 +80,7 @@ JavaScript, React, Node.js, MongoDB, Git & GitHub, Firebase, Full-Stack Projects
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
----
+
 
 ### ⚙️ Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -89,8 +89,7 @@ JavaScript, React, Node.js, MongoDB, Git & GitHub, Firebase, Full-Stack Projects
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-
-
+---
 
 ### 📈 GitHub Stats
 
