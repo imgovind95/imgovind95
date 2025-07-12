@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Govind Kumar
+### 👋 Hi there, I'm Govind Kumar
 
 <!--
 ✨ This is a special repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@
 
 ---
 
-## ⚙️ Technical Proficiencies
+### ⚙️ Technical Proficiencies
 
 Languages:  `C`, `C++`, `Python`, `JavaScript`, `HTML`, `CSS`, `SQL`
 
@@ -32,24 +32,24 @@ Tools & Platforms:  `Git`, `GitHub`, `VS Code`, `Postman`, `Vercel`
 
 ---
 
-## 📚 Currently Learning:  
+### 📚 Currently Learning:  
 `Next.js`, `TypeScript`, `MongoDB`, `System Design`, `REST APIs`
 
 ---
 
-## 💬 Ask Me About
+### 💬 Ask Me About
 `JavaScript`, `React`, `Node.js`, `MongoDB`, `Git & GitHub`, `Firebase`, `Full-Stack Projects`
 
 ---
 
-## 📫 How to Reach Me
+### 📫 How to Reach Me
 - 📧 Email: [govindkumar952365@gmail.com](mailto:govindkumar952365@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/govind-kumar-61a212271/)
 
 ---
 
 ### 🛠️ Tech Stack
-## 👨‍💻 Languages  
+### 👨‍💻 Languages  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -93,13 +93,13 @@ Tools & Platforms:  `Git`, `GitHub`, `VS Code`, `Postman`, `Vercel`
 
 ---
 
-## 🔥 GitHub Streak
+### 🔥 GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=imgovind95&theme=react&hide_border=false)](https://git.io/streak-stats)
 
 ---
 
-## 👀 Visitor Count
+### 👀 Visitor Count
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=imgovind95)
 
