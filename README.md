@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Govind Kumar
+## 👋 Hi there, I'm Govind Kumar
 
 <!--
 ✨ This is a special repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +12,7 @@
 
 
 -->
-## 💡 About Me
+### 💡 About Me
 
 🎓 B.Tech Final Year Student at **Nitte Meenakshi Institute of Technology**, Bangalore  
 💻 Passionate about **Full-Stack Development** and solving real-world problems using modern tech  
