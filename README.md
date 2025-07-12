@@ -43,8 +43,8 @@ Tools & Platforms:  `Git`, `GitHub`, `VS Code`, `Postman`, `Vercel`
 ---
 
 ### 📫 How to Reach Me
-- 📧 Email: [govindkumar952365@gmail.com](mailto:govindkumar952365@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/govind-kumar-61a212271/)
+📧 Email: [govindkumar952365@gmail.com](mailto:govindkumar952365@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/govind-kumar-61a212271/)
 
 ---
 
