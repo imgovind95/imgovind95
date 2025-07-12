@@ -22,8 +22,7 @@
 
 ### ⚙️ Technical Proficiencies
 
-**Languages:**  
-`C` `C++` `Python` `JavaScript` `HTML` `CSS` `SQL`
+**Languages:  `C` `C++` `Python` `JavaScript` `HTML` `CSS` `SQL`
 
 **Frontend:**  
 `React` `HTML` `CSS` `JavaScript` `Bootstrap` `Tailwind CSS`
