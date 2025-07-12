@@ -22,21 +22,17 @@
 
 ### ⚙️ Technical Proficiencies
 
-**Languages:  `C` `C++` `Python` `JavaScript` `HTML` `CSS` `SQL`
+Languages:  `C` `C++` `Python` `JavaScript` `HTML` `CSS` `SQL`
 
-**Frontend:**  
-`React` `HTML` `CSS` `JavaScript` `Bootstrap` `Tailwind CSS`
+Frontend:  `React` `HTML` `CSS` `JavaScript` `Bootstrap` `Tailwind CSS`
 
-**Backend & Database:**  
-`Node.js` `Express.js` `MongoDB` `Firebase`
+Backend & Database:  `Node.js` `Express.js` `MongoDB` `Firebase`
 
-**Tools & Platforms:**  
-`Git` `GitHub` `VS Code` `Postman` `Vercel`
+Tools & Platforms:  `Git` `GitHub` `VS Code` `Postman` `Vercel`
 
 ---
 
-### 📚 Currently Learning  
-`Next.js` `TypeScript` `MongoDB` `System Design` `REST APIs`
+### 📚 Currently Learning:  `Next.js` `TypeScript` `MongoDB` `System Design` `REST APIs`
 
 ---
 
